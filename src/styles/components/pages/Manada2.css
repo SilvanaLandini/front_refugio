@@ -1,0 +1,43 @@
+
+main{
+    opacity: 98%;
+    background-color: rgb(212, 240, 231);
+    padding: 2%;
+}
+
+h2{
+    color: #2e64a1;
+    font-weight: 400;
+}
+
+.manada:nth-child(even) {
+    flex-direction: row;
+}
+.manada{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 16px;
+    margin: 16px 0;
+    display: flex;
+    gap: 32px;
+    align-items: center;
+}
+
+.manada img{
+    border-radius: 13px;
+    display: block;
+    max-width: 225px;
+}
+
+
+.manada img{
+    border-radius: 13px;
+    display: block;
+    max-width: 225px;
+}
+
+.idimagen{
+    opacity: 98%;
+    background-color: rgb(212, 240, 231);
+    font-size: 0%;
+}

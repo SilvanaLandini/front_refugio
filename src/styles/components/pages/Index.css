@@ -1,0 +1,58 @@
+main {
+    opacity: 98%;
+    background-color: rgb(212, 240, 231);
+    padding: 2%;
+}
+
+p{
+    font-family: 'Vollkorn', serif;
+  }
+
+h2{
+    color: #2e64a1;
+    font-weight: 400;
+}
+
+.bienvenidos{/*imagenes*/
+    /* background-color: #0d3623; */
+    width: 50%;
+    padding: 10px;
+    margin: 5px;
+}
+
+.inicio{
+    border-bottom: 3px solid black;
+}
+
+.testimonios{/*imagenes*/
+    /* background-color: #0d3623; */
+    width: 50%;
+    padding: 10px;
+    margin: 5px;
+}
+
+.bienvenidos img{/*imagenes*/
+    width: 500px;
+}
+.testimonios img{/*imagenes*/
+    width: 500px;
+}
+
+.memes{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.meme img{
+    width: 400px;
+    padding: 5px;
+}
+
+.columnas {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-bottom: 3px solid black;
+}
