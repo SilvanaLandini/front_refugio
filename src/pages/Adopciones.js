@@ -96,9 +96,8 @@ const Adopciones = (props) => {
                     match con ninguna foto que hayas visto, escribinos y contanos qué características te gustaría que tenga
                     tu compañero. Nos contactaremos y enviaremos fotos.</p>
                 <p><Link to="/contacto">Contacto</Link></p>
-                <p>Si ya estás seguro de saber a quién de nuestra manada querés cambiarle la vida, escribí tu mail para
-                    recibir el formulario de pre adopción y los pasos a seguir, en tu casilla de correo.</p>
-                <form action="" method="" className="formulario">
+                <p>Si ya estás seguro de saber a quién de nuestra manada querés cambiarle la vida, escribinos un mensaje en la sección de contacto. Podés dejarnos en el mensaje un número de teléfono por cualquier inconveniente con el mail.</p>
+                {/* <form action="" method="" className="formulario">
                     <p>
                         <label form='email'>Email</label>
                         <input type='text' name=""/>
@@ -106,7 +105,7 @@ const Adopciones = (props) => {
                     <p>
                         <input type="submit" value="Recibir el formulario"/>
                     </p>
-                </form>
+                </form> */}
             </div>
         </main>
     );
